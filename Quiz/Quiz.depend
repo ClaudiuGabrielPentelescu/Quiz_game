@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1589076834 source:c:\users\claudiupc\desktop\quiz principatele romane\quiz\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"functii.h"
+
+1588880920 c:\users\claudiupc\desktop\quiz principatele romane\quiz\functii.h
+
+1589076809 source:c:\users\claudiupc\desktop\quiz principatele romane\quiz\functii.c
+	<string.h>
+	<windows.h>
+	"functii.h"
+
